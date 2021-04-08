@@ -19,7 +19,7 @@ jobs:
 
         with:
 
-          find: ".open"
+          find: "open"
 
           replace: "lopen"
 
@@ -29,7 +29,7 @@ jobs:
 
         with:
 
-          commit_message: 'Replaced new name'
+          commit_message: 'Fixes'
 
           commit_options: '--no-verify'
 
