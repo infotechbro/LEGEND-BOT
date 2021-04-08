@@ -19,7 +19,7 @@ jobs:
 
         with:
 
-          find: "open"
+          find: ".open"
 
           replace: "lopen"
 
