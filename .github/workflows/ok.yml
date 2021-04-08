@@ -19,9 +19,9 @@ jobs:
 
         with:
 
-          find: "from userbot.legend"
+          find: "open"
 
-          replace: "from LEGENDX"
+          replace: "lopen"
 
       - name: Create Pull Request
 
